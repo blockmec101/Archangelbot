@@ -1,0 +1,2 @@
+# Archangelbot
+Trading AI BOT
